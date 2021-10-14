@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ericshypixelmod",
+  "name": "Eric's Hypixel Mod",
+  "description": "Visual additions for bedwars, and some fixes for annoyences in the lobby",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://eric.golde.org/",
+  "updateUrl": "",
+  "authorList": ["Eric Golde"],
+  "credits": "Hypixel? Mojang? What the fuck do I put here?",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
